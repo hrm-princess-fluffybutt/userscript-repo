@@ -3,8 +3,8 @@
 // @version      1.0
 // @description  desc
 // @namespace    https://github.com/hrm-princess-fluffybutt/userscript-repo
-// @updateURL    https://github.com/hrm-princess-fluffybutt/userscript-repo/raw/main/*.user.js
-// @downloadURL  https://github.com/hrm-princess-fluffybutt/userscript-repo/raw/main/*.js
+// @updateURL    https://github.com/hrm-princess-fluffybutt/userscript-repo/blob/main/sold%20by%20amazon%20filter%20toggle-1.0.user.js
+// @downloadURL  https://github.com/hrm-princess-fluffybutt/userscript-repo/blob/main/sold%20by%20amazon%20filter%20toggle-1.0.user.js
 // @author       hrm-princess-fluffybutt
 // @include        https://www.amazon.tld/*
 // @include        https://amazon.tld/*
